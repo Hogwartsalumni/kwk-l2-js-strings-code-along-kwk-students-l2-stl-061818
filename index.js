@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-const currentUser = 'Scarlett Patton'.charAt(0);
+const currentUser = 'Scarlett Patton'.slice;
 
 const welcomeMessage = `Welcome to Klossybook, ${currentUser}!`;
 
